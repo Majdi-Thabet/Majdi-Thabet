@@ -1,12 +1,12 @@
+<div align=center>
+          <img alt="gif" align="center" src="./git.gif" width=300 height=300/>
+</div
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I am+Majdi+Thabet+%F0%9F%91%8B;web development+and+AI+Learner;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I%20am+Majdi+Thabet+%F0%9F%91%8B;Web%20development+and+AI+Learner;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
     </div>
 
 <h3 align="center">A detail-oriented and diligent software engineer, interested in web development and artificial intelligence.</h3>
-
-
-
 
 I am a Computer Science student | Software Engineering Dept. I`m Interested in development websites, Machine Learning. I also create content. I really enjoy learning languages as well as web developement.
 
