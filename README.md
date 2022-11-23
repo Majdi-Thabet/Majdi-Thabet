@@ -43,22 +43,22 @@ I am a Computer Science student | Software Engineering Dept. I`m Interested in d
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse-code&logoColor=007ACC)
 
-
 <h3 align="left">🤝🏻Connect with me: </h3>
 
 <div>
-  
   <a href="https://www.facebook.com/Mäjdi-Thabete">
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
   </a>
-
   <a href="https://github.com/Majdi-Thabet">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MejdiThabet/)   
+  <a href="https://www.linkedin.com/in/MejdiThabet/">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> 
+  </a>
 </div>
 
-<div>
+<br>
+
 <a href="mailto:Mejdithabet@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mejdithabet@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </div>
 
