@@ -47,8 +47,14 @@ I am a Computer Science student | Software Engineering Dept. I`m Interested in d
 <h3 align="left">🤝🏻Connect with me: </h3>
 
 <div>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mäjdi-Thabet)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Majdi-Thabet)  
+  
+  <a href="https://www.facebook.com/Mäjdi-Thabete">
+       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
+  </a>
+
+  <a href="https://github.com/Majdi-Thabet">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+  </a>
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MejdiThabet/)   
 </div>
 
