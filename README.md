@@ -7,12 +7,6 @@
 </div>
 
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Moataz+Elmesmary+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
-    </div>
-
-
-
 <h3 align="center">A detail-oriented and diligent software engineer, interested in web development and artificial intelligence.</h3>
 
 I am a Computer Science student | Software Engineering Dept. I`m Interested in development websites, Machine Learning. I also create content. I really enjoy learning languages as well as web developement.
@@ -56,7 +50,7 @@ I am a Computer Science student | Software Engineering Dept. I`m Interested in d
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mäjdi-Thabet)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Majdi-Thabet)  
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MejdiThabet/)   
-<div>
+</div>
 
 <div>
 <a href="mailto:Mejdithabet@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mejdithabet@gmail.com-blue?style=flat-square&logo=gmail"></a>
