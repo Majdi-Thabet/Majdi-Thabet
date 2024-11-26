@@ -9,8 +9,10 @@
 
 <h3 align="center">A detail-oriented and diligent software engineer, interested in web development and artificial intelligence.</h3>
 
-I am a Software Engineer, a multi-skilled tech-enthusiast person.
-I am always eager to learn new things to achieve higher results, make significant shifts and attain greater success.
+<h4 align="center">I am a Software Engineer, a multi-skilled tech-enthusiast person.
+I am always eager to learn new things to achieve higher results, make significant shifts and attain greater success.</h4>
+
+
 
 
 <hr>
