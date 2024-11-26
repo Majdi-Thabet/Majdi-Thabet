@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Majdi+Thabet+%F0%9F%91%8B;Web+developer+and+AI+Learner." alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%1e4b99&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Majdi+Thabet+%F0%9F%91%8B;Web+developer+and+AI+Learner." alt="Headline" />
 </div>
 
 
