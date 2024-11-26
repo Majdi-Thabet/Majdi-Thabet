@@ -9,8 +9,8 @@
 
 <h3 align="center">A detail-oriented and diligent software engineer, interested in web development and artificial intelligence.</h3>
 
-I am a Computer Science student | Software Engineering Dept. I`m Interested in development websites, Machine Learning. I also create content. I really enjoy learning languages as well as web developement.
-
+I am a Software Engineer, a multi-skilled tech-enthusiast person.
+I am always eager to learn new things to achieve higher results, make significant shifts and attain greater success.
 
 
 <hr>
