@@ -46,16 +46,9 @@
 
 
 
-
-<hr>
-
 <img align="right" width="300" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 
-
-
-
-<hr>
  
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
 
