@@ -47,25 +47,11 @@
 
 
 
-
-
-
-<h3 align="center">A detail-oriented and diligent software engineer, interested in web development and artificial intelligence.</h3>
-
-<h4 align="center">I am a Software Engineer, a multi-skilled tech-enthusiast person.
-I am always eager to learn new things to achieve higher results, make significant shifts and attain greater success.</h4>
-
-
-
-
 <hr>
 
 <img align="right" width="300" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 
-
-
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 
 
