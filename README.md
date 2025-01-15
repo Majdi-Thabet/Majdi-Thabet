@@ -1,9 +1,9 @@
-<h2 align='center'>Hey There! I am Majdi, a Software Engineer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align='center'>Hey There! I am <b>Majdi Thabet<b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions as a multi-skilled tech-enthusiast person.\
 🎓 &nbsp;I'm a detail-oriented and diligent software engineer.\
+💡 &nbsp; I like to explore new technologies and develop software solutions as a multi-skilled tech-enthusiast person.\
 🌱 &nbsp;I'm on track for learning more about web development and data sciences.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mejdithabet@gmail.com! I'll try to respond as soon as I can.
